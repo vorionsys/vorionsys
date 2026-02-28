@@ -27,7 +27,7 @@ So we combined our work — intent/enforcement + trust/audit — into Vorion. Ou
 
 We believe AI is humanity's greatest asset in the making, but it won't happen by chance. It must be guided.
 
-[Full story →](https://vorion.org/about) · [vorion.org](https://vorion.org) · [cognigate.dev](https://cognigate.dev)
+[About & Manifesto →](https://vorion.org/manifesto) · [vorion.org](https://vorion.org) · [cognigate.dev](https://cognigate.dev)
 
 ---
 

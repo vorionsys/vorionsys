@@ -13,8 +13,8 @@ so AI agents can earn autonomy instead of being granted it blindly.
 
 | Repo | What it does | |
 |---|---|---|
-| [**vorion**](https://github.com/vorionsys/vorion) | Full governance monorepo -- BASIS standard, ATSF scoring, CAR registry, SDKs | 10,668+ tests - Apache 2.0 |
-| [**cognigate**](https://github.com/vorionsys/cognigate) | Enforcement runtime: INTENT -> ENFORCE -> PROOF | 692 tests - Live at [cognigate.dev](https://cognigate.dev) |
+| [**vorion**](https://github.com/vorionsys/vorion) | Full governance monorepo — BASIS standard, ATSF scoring, CAR registry, SDKs | 13,600+ tests · Apache 2.0 |
+| [**cognigate**](https://github.com/vorionsys/cognigate) | Enforcement runtime: INTENT → ENFORCE → PROOF | 692 tests · Live at [cognigate.dev](https://cognigate.dev) |
 
 ---
 
@@ -59,11 +59,11 @@ npm install @vorionsys/shared-constants   # start here
 
 ### Standards alignment
 
-- **NIST AI RMF** -- ~86% coverage across Govern, Map, Measure, Manage
-- **NIST SP 800-53** -- 370 controls in OSCAL SSP (OSCAL 1.1.2, validated)
-- **NIST CAISI** -- RFI response pending submission, Docket NIST-2025-0035, deadline March 9, 2026
-- **OWASP ASI** -- Top 10 for Agentic Applications (ASI01-ASI10) mapped
-- **ISO/IEC 42001** -- Gap analysis complete
+- **NIST AI RMF** — ~86% coverage across Govern, Map, Measure, Manage
+- **NIST SP 800-53** — 370 controls in OSCAL SSP (OSCAL 1.1.2, validated)
+- **NIST CAISI** — RFI response pending submission, Docket NIST-2025-0035, deadline March 9, 2026
+- **OWASP ASI** — Top 10 for Agentic Applications (ASI01–ASI10) mapped
+- **ISO/IEC 42001** — Gap analysis complete
 
 ---
 

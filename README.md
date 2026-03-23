@@ -13,7 +13,7 @@ so AI agents can earn autonomy instead of being granted it blindly.
 
 | Repo | What it does | |
 |---|---|---|
-| [**vorion**](https://github.com/vorionsys/vorion) | Full governance monorepo — BASIS standard, ATSF scoring, CAR registry, SDKs | 14,000+ tests · Apache 2.0 |
+| [**vorion**](https://github.com/vorionsys/vorion) | Full governance monorepo — BASIS standard, ATSF scoring, CAR registry, SDKs | 10,175+ tests · Apache 2.0 |
 | [**cognigate**](https://github.com/vorionsys/cognigate) | Enforcement gateway: INTENT → ENFORCE → PROOF | TypeScript/Fastify · Live at [cognigate.dev](https://cognigate.dev) |
 
 ---

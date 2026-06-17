@@ -1,5 +1,7 @@
 # Vorion — open infrastructure for AI agent governance
 
+> **BASIS is to AI-agent governance what OAuth is to delegated authorization — an open standard so an agent trusted by one system can be evaluated by another.**
+
 **BASIS — the open standard for trustworthy AI agents.** Vorion builds the open spec, the enforcement engine, and the developer tools that let any system decide — in real time — whether an AI agent's action should run, and emit cryptographic proof of *why*.
 
 > 📍 You're on **@vorionsys** — the home of Vorion's published open-source packages (`@vorionsys/*` on npm, Apache-2.0). Website: **[vorion.org](https://vorion.org)** · Spec: **[basis.vorion.org](https://basis.vorion.org)** · Learn: **[learn.vorion.org](https://learn.vorion.org)**
@@ -21,6 +23,7 @@ BASIS spec (the standard)             →  basis-spec · car-spec
 - **Integrate via the SDK** → [`sdk`](https://github.com/vorionsys/sdk) — TypeScript client
 - **Use it in your tools** → [Vorion MCP server](https://github.com/voriongit/mcp-server) (Claude Desktop & MCP clients) · [vorion-find](https://github.com/voriongit/vorion-find) (scan a device for AI agents)
 - **Contribute** → start in [`basis-gate`](https://github.com/vorionsys/basis-gate) (`CONTRIBUTING` · `CODE_OF_CONDUCT` · `SECURITY`)
+- **Roadmap** → [`basis-gate` ROADMAP](https://github.com/vorionsys/basis-gate/blob/main/ROADMAP.md) — where the open core is headed
 - **Enterprise governance** → [vorion.org](https://vorion.org) (AgentAnchor, Cognigate)
 
 ### Core repositories — Apache-2.0
@@ -50,3 +53,10 @@ BASIS spec (the standard)             →  basis-spec · car-spec
 ---
 
 *BASIS = Baseline Authority for Safe & Interoperable Systems. © Vorion LLC · Apache-2.0.*
+
+<!--
+MANUAL RESIDUAL ITEMS (GitHub web-UI only — not editable via this README):
+  1. Set the @vorionsys account bio (Settings → Profile → Bio).
+  2. Pin the 6 canonical repos on the profile: basis-spec, basis-gate, car-spec, sdk, contracts, shared-constants
+     (profile page → "Customize your pins").
+-->

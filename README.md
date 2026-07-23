@@ -21,7 +21,7 @@ BASIS spec (the standard)             →  basis-spec · car-spec
 - **Read the standard** → [basis.vorion.org](https://basis.vorion.org) · spec repo [`basis-spec`](https://github.com/vorionsys/basis-spec)
 - **Enforce it in code** → [`basis-gate`](https://github.com/vorionsys/basis-gate) — `npm i @vorionsys/basis-gate-runtime` (+ `-spec`, `-industry`)
 - **Integrate via the SDK** → [`sdk`](https://github.com/vorionsys/sdk) — TypeScript client
-- **Use it in your tools** → [Vorion MCP server](https://github.com/voriongit/mcp-server) (Claude Desktop & MCP clients) · [vorion-find](https://github.com/voriongit/vorion-find) (scan a device for AI agents)
+- **Use it in your tools** → [Vorion MCP server](https://github.com/vorionsys/mcp-server) (Claude Desktop & MCP clients) · [vorion-find](https://github.com/voriongit/vorion-find) (scan a device for AI agents)
 - **Contribute** → start in [`basis-gate`](https://github.com/vorionsys/basis-gate) (`CONTRIBUTING` · `CODE_OF_CONDUCT` · `SECURITY`)
 - **Roadmap** → [`basis-gate` ROADMAP](https://github.com/vorionsys/basis-gate/blob/main/ROADMAP.md) — where the open core is headed
 - **Enterprise governance** → [vorion.org](https://vorion.org) (AgentAnchor, Cognigate)
@@ -39,9 +39,9 @@ BASIS spec (the standard)             →  basis-spec · car-spec
 
 ### Tools & related repos
 
-- [`mcp-server`](https://github.com/voriongit/mcp-server) — Model Context Protocol server exposing local trust governance + remote Cognigate runtime tools.
+- [`mcp-server`](https://github.com/vorionsys/mcp-server) — Model Context Protocol server exposing local trust governance + remote Cognigate runtime tools.
 - [`vorion-find`](https://github.com/voriongit/vorion-find) — zero-dep CLI that scans a device for AI agents and streams findings.
-- [`rainbow`](https://github.com/voriongit/rainbow) — windowed non-binary orchestration analytics (`@vorionsys/rainbow`).
+- [`rainbow`](https://github.com/vorionsys/rainbow) — windowed non-binary orchestration analytics (`@vorionsys/rainbow`).
 - [`basis-spec-docs`](https://github.com/voriongit/basis-spec-docs) — the BASIS documentation site (powers basis.vorion.org).
 
 ### How the repos are organized
